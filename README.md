@@ -1,0 +1,1 @@
+This is a simple text to speech. Change the voice_id to change the type of voice. You can commento the line for the key(you have some try for free) but then you will need the key from elevenlabs to continue. (10k char free for month).
